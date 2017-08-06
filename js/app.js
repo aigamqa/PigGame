@@ -18,7 +18,6 @@
 
 //Basic variables
 var scores, roundScore, activePlayer, stopWhenWinGame;
-diceSix = [];
 //Reset all paramentrs
 init();
 
